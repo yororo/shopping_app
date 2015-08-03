@@ -1,0 +1,16 @@
+nav .brand-logo {
+    margin-left: .5em;
+}
+
+#shop-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+}
+
+footer {
+    text-align: right;
+    font-size: .9em;
+    margin-bottom: 2em;
+}
